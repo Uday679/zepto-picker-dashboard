@@ -1,11 +1,1 @@
-<div align="center">
-
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+<!DOCTYPE html><html><head><script src="https://cdn.jsdelivr.net/npm/chart.js"></script><script src="https://cdn.tailwindcss.com"></script><title>Zepto Dashboard</title></head><body class="bg-gradient-to-br from-purple-500 to-blue-500 p-4 text-white"><h1 class="text-3xl font-bold text-center mb-8">📦 Zepto Picker Dashboard</h1><div class="grid grid-cols-2 gap-4 mb-8"><div class="bg-white/20 p-4 rounded-xl text-center"><div class="text-2xl font-bold">65%</div><div>Peak 6-11PM</div></div><div class="bg-white/20 p-4 rounded-xl text-center"><div class="text-2xl font-bold">₹18K</div><div>Full-time/mo</div></div></div><div class="text-xl text-center mb-4">🎯 BEST: 9hr shift 5PM-2AM</div><div class="bg-green-500/30 p-4 rounded-xl text-center font-bold">Visit Westend Bandh warehouse TODAY!</div></body></html>
